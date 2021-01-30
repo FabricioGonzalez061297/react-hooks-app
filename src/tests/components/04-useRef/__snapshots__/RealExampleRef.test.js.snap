@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en RealExampleRef.test.js debe mostrarse correcatemente 1`] = `
+<Fragment>
+  <h1>
+    Real Example useRef
+  </h1>
+  <hr />
+  <br />
+  <button
+    className="btn btn-info mt-3 txt-center"
+    onClick={[Function]}
+  >
+    Show/Hide
+  </button>
+</Fragment>
+`;
